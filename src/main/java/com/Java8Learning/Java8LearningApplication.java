@@ -8,6 +8,9 @@ public class Java8LearningApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Java8LearningApplication.class, args);
+
+
+		System.out.println("manash is good boys");
 	}
 
 
