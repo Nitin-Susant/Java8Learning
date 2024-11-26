@@ -20,8 +20,8 @@ public class Runners implements CommandLineRunner {
     @Override
     public void run(String... args) throws Exception {
 
-//        List<Employee1> employee1s = employeeService.getallEmployeeSalary();
-
+        List<Employee1> employee1s = employeeService.getallEmployeeSalary();
+        System.out.println("manash is good boy ");
 
     }
 
