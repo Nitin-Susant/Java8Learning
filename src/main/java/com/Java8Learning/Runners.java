@@ -12,7 +12,7 @@ import java.util.List;
 
 
 @Component
-public class  Runners implements CommandLineRunner {
+public class Runners implements CommandLineRunner {
     @Autowired
     private Employee1Repository employee1Repository;
 
@@ -29,8 +29,9 @@ public class  Runners implements CommandLineRunner {
         System.out.println("susant is a good boy");
 
 
+        System.out.println("ramesh and laxmi");
 
-    }
+         }
 
 
 
