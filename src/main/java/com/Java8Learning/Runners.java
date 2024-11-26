@@ -22,7 +22,7 @@ public class Runners implements CommandLineRunner {
 
         List<Employee1> employee1s = employeeService.getallEmployeeSalary();
         System.out.println("manash is good boy ");
-
+        System.out.println("ramesh and laxmi");
         Sysout.out.println("susant is a good boy");
 
     }
