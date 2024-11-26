@@ -10,4 +10,5 @@ public class Java8LearningApplication {
 		SpringApplication.run(Java8LearningApplication.class, args);
 	}
 
+
 }
