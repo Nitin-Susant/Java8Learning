@@ -26,6 +26,8 @@ public class Runners implements CommandLineRunner {
         List<Employee1> employee1s = employeeService.getallEmployeeSalary();
         System.out.println("manash is good boy ");
         System.out.println("manash ");
+         System.out.println("manash is good boy ");
+        System.out.println("manash ");
         
 
     }
